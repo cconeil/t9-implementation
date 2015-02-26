@@ -4,8 +4,6 @@
 #include"header.h"
 
 //Eeshan Londhe
-//CSE 374 Homework 5
-//2/20/15
 //constructors.c
 //Contains methods that create new linkedlist nodes as well as tree nodes.
 
