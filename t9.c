@@ -1,6 +1,4 @@
 //Eeshan Londhe
-//CSE 374 Homework 5
-//2/20/15
 //t9.c
 //This program allows the user to pass in a dictionary and type a corresponding t9 number sequence.
 //The program will then convert the sequence to a dictionary word.
