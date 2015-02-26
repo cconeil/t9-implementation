@@ -1,6 +1,4 @@
 //Eeshan Londhe
-//CSE 374 Homework 5
-//2/20/15
 //Header File
 //Contains the structs for the linked list node and the tree node.
 
